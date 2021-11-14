@@ -1,0 +1,2 @@
+# QRCodeApi
+flask restful api
